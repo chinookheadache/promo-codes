@@ -1,12 +1,12 @@
 /**
- * Major Project 1 - Promo Code Generator
+ * Promo Code Generator
  * This program generates a 5 Uppercase letter promo code 
  * with each letter having specific characteristics.
  * The letters are the Unicode characters of randomly generated numbers.
  * The last letter is used as a check for verifying the promo
  * codes in the Promo code verifying program.
  * 
- * @author (Andrew Reid and Zac Fawcett ) 
+ * @author (Zac Fawcett ) 
  * @version (July 1st, 2021)
  */
 // Standard import for the Scanner class
